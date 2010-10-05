@@ -1,0 +1,11 @@
+consumer_key=
+consumer_secret=
+token=
+token_secret=
+
+mongo_host=
+mongo_port=
+mongo_db=
+mongo_user=
+mongo_pass=
+mongo_tweet_collection=
